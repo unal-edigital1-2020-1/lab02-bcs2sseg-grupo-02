@@ -17,7 +17,7 @@ En esta plantilla debe adicionar la documentación del laboratorio
 
   Observando la parte física de un display, para mostrar los resultados de forma visual de un determinado diseño digital se necesita activar 7 conexiones de Leds que se combinan para formar la imagen en el display de un determinado dígito, entonces la propuesta  de esta práctica fue diseñar, sintentizar e implementar un BDC (Binary-Coded Decimal) para un Display de 7 sergmentos (este último de manera virtual), el cual permite visualizar números en representación hexadecimal (0x0 a 0xF) y decimal.
 
-  Imagen tomada de: ![Guam + Various](lab02-bcs2sseg-grupo-02/images/7_segment_display_animated.gif)
+  Imagen tomada de: ![Guam + Various](/images/7_segment_display_animated.gif)
 
 
   ## Desarrollo
