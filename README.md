@@ -18,10 +18,10 @@ En esta plantilla debe adicionar la documentación del laboratorio
 
 
   ## Desarrollo
-  ### Simulación para el BCD-7seg y analisis de resultados.
+  ### Simulación para el BCD-7seg y análisis de resultados.
 
   ### Visualización Dinámica de 4 Display, tomando como base los archivos dados.
-  //Creer el archivo testbench.v
+  \Crear el archivo testbench.v
 
   #### Simulación, Revise que el sistema funciona como usted lo esperaba. Realice lo comentarios necesarios en el archivo README.md.
 
