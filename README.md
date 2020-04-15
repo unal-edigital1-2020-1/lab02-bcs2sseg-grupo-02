@@ -23,7 +23,27 @@ En esta plantilla debe adicionar la documentación del laboratorio
 
 
   ## Desarrollo
+
+  ### Caja funcional del BCD:
+
+  ### Descripción Funcional del BCD:
+  
+  A  | B  | Cin | Out | Cout
+  -- | -- | --  | --  |  --
+  0| 0 | 0 |0 | 0
+  0| 0 | 1 | 1| 0
+  0| 1 | 0 | 1| 0
+  0| 1 | 1 | 0| 1
+  1| 0 | 0 | 1| 0
+  1| 0 | 1 | 0| 1
+  1| 1 | 0 | 0| 1
+  1| 1 | 1 | 1| 1
+
+
+
   ### Simulación para el BCD-7seg y análisis de resultados.
+
+
 
   ### Visualización Dinámica de 4 Display, tomando como base los archivos dados.
   <!-- Crear el archivo testbench.v -->
