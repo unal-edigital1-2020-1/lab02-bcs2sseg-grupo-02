@@ -27,7 +27,8 @@ En esta plantilla debe adicionar la documentación del laboratorio
   ### Caja funcional del BCD:
 
   ### Descripción Funcional del BCD:
-  
+
+  <!--
   A  | B  | Cin | Out | Cout
   -- | -- | --  | --  |  --
   0| 0 | 0 |0 | 0
@@ -38,7 +39,7 @@ En esta plantilla debe adicionar la documentación del laboratorio
   1| 0 | 1 | 0| 1
   1| 1 | 0 | 0| 1
   1| 1 | 1 | 1| 1
-
+-->
 
 
   ### Simulación para el BCD-7seg y análisis de resultados.
